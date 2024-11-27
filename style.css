@@ -1,0 +1,21 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+p{
+font-size: 20px;
+text-indent : 05%;
+text-align: justify-all;
+font-family: Trebuchet MS, sans-serif;
+}
+
+img {
+max-width : 100%;
+height : auto;
+}
+
+body {
+background-color: #FFFFFF;
+}
